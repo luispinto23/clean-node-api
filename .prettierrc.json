@@ -1,10 +1,10 @@
 {
-   2   │   "semi": true,
-   3   │   "bracketSpacing": true,
-   4   │   "jsxBracketSameLine": true,
-   5   │   "endOfLine": "lf",
-   6   │   "arrowParens": "avoid",
-   7   │   "singleQuote": true,
-   8   │   "jsxSingleQuote": true,
-   9   │   "trailingComma": "none"
-  10   │ }
+  "semi": true,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "endOfLine": "lf",
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "trailingComma": "none"
+}
